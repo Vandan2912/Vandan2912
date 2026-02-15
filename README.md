@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React/Next js <br>🌱 I’m currently learning backend
+🔭 I’m currently working on React/Next js <br>🌱 I’m currently Fullstack Developer
 
 
 ## 🌐 Socials:
